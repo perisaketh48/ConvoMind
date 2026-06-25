@@ -1,0 +1,51 @@
+{
+    "total_conversations": 11000,
+    "habits": [
+        "music lover",
+        "reader",
+        "fitness enthusiast",
+        "traveler",
+        "gamer",
+        "food lover",
+        "reading",
+        "hiking",
+        "cooking",
+        "playing video games"
+    ],
+    "personal_facts": [
+        "has pet",
+        "is student",
+        "is working",
+        "has family",
+        "has siblings",
+        "has car",
+        "has a dog",
+        "has a family",
+        "has kids",
+        "has friends"
+    ],
+    "personality_traits": [
+        "creative",
+        "emotional",
+        "adventurous",
+        "humorous",
+        "ambitious",
+        "caring",
+        "appreciative",
+        "enthusiastic",
+        "optimistic",
+        "encouraging"
+    ],
+    "communication_style": [
+        "no emoji usage",
+        "neutral tone",
+        "short messages",
+        "medium length messages",
+        "casual tone",
+        "long detailed messages",
+        "very short messages",
+        "friendly",
+        "encouraging",
+        "polite"
+    ]
+}

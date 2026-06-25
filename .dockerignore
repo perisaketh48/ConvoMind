@@ -1,0 +1,37 @@
+# Git
+.git
+.gitignore
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+Genai_env/
+venv/
+.venv/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+
+# Documentation
+README.md
+
+# Data Pipeline
+Data Pipeline/
+
+# Test Files
+app/test_retrieval.py
+
+# Raw Dataset
+app/conversations.xlsx
+
+# Embeddings (Optional)
+app/embeddings_output/
